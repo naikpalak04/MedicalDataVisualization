@@ -1,0 +1,6 @@
+snowflake-connector-python
+azure-storage-blob
+pandas
+matplotlib
+seaborn
+jupyter
